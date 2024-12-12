@@ -95,6 +95,7 @@ def view_tests():
         return html
     except Exception as e:
         return f'<h1>Error</h1><p>{str(e)}</p>'
+    
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
