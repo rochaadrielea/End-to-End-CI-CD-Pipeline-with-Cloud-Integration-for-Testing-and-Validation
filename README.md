@@ -83,8 +83,15 @@ python -m unittest discover tests/
 Tests will also run automatically during the CI/CD pipeline execution.
 Project Structure
 bash
-Copy code
-![image](https://github.com/user-attachments/assets/8cfd7913-211f-4afc-be31-164bccec8a4d)
+
+/project-root
+├── app/                   # Application source code
+├── docker/                # Dockerfile for containerization
+├── ci-cd/                 # GitHub Actions workflow configuration
+├── deploy/                # Azure deployment resources
+├── terraform/             # Infrastructure as Code (optional)
+├── tests/                 # Python unit test cases
+└── README.md              # Project documentation
 
 
 
