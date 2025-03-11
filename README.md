@@ -1,7 +1,7 @@
 # **End-to-End CI/CD Pipeline with Cloud Integration for Testing and Validation**
 
 ## **Project Overview**
-This project demonstrates a practical implementation of a CI/CD pipeline integrated with cloud deployment and testing infrastructure. It showcases key competencies required for the role of **Digital Solution Test Engineer / Systems Engineer**, including containerization, cloud services, and test automation.
+This project demonstrates a practical implementation of a CI/CD pipeline integrated with cloud deployment and testing infrastructure. It showcases key competencies including containerization, cloud services, and test automation.
 
 The project focuses on automating the deployment of a sample web application to the Azure cloud using modern DevOps practices, simulating real-world IT integration and validation scenarios.
 
